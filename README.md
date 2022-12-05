@@ -8,7 +8,7 @@ Author: Chris Lyons, June 2022
 
 
 ### Repo Contents
-- [A Movie Data Analysis Jupyter Notebook](https://github.com/lychrst/Movie_Data_Analysis/blob/main/A%20movie%20data%20analysis%20for%20Microsoft%20-%20Jupyter%20Notebook.pdf)
+- [A Movie Data Analysis Jupyter Notebook](https://github.com/lychrst/Movie_Data_Analysis/blob/main/A%20movie%20data%20analysis%20for%20Microsoft.ipynb)
 - [Exploratory Notebook](https://github.com/lychrst/Movie_Data_Analysis/blob/main/exploratory.ipynb)
 
 
